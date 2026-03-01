@@ -8,7 +8,7 @@ https://glseries.net/api/cdn
 
 You may also use other official TGLSC links if you like.
 
-For UBG Creators, it is best if you reverse proxy or proxy the CDN Endpoint.
+For UBG Creators, it is best if you reverse proxy or proxy the CDN Endpoint & Their Content (such as thumbnail and embed).
 
 ## Usage
 
